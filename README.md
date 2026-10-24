@@ -105,7 +105,7 @@ Copy `backend/.env.example` to `backend/.env`:
 PORT=5000
 NODE_ENV=development
 MONGODB_URI=mongodb://127.0.0.1:27017/festiva_ai
-JWT_SECRET=festiva_ai_super_secret_jwt_key_production_2025
+JWT_SECRET=replace_with_a_strong_random_secret
 JWT_EXPIRES_IN=7d
 GEMINI_API_KEY=your_google_gemini_api_key_here
 GEMINI_MODEL=gemini-1.5-flash
